@@ -1,0 +1,2 @@
+.todo{padding:20px;border:1px solid #000;border-radius:2px;background-color:#f7a539}.statusDone{background-color:#97ce68}.statusDone,.statusInProgress{margin-top:10px;padding:3px;text-align:center;border-radius:5px}.statusInProgress{background-color:#e64a4a}.preparedTodos{display:grid;grid-template-columns:repeat(3,1fr);grid-gap:15px;gap:15px;list-style:none}
+/*# sourceMappingURL=main.074226c5.chunk.css.map */
